@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there ❤
 
-<!--
-**anavalim10/anavalim10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Seja bem-vindos 
+Eu sou a **Ana Julia Valim** 
+- Estou estudando o [Alura](htpps://www.alura.com.br)
 
-Here are some ideas to get you started:
+- Esse espaço será utilizado para comprtilhamentos dos meus projetos acadêmicos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Contatos📪
+
+  @00001080366118SP@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/qinFDNFLDI4AAAAC/jb-justin-bieber.gif)
+  
+
